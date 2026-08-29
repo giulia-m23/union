@@ -18,7 +18,8 @@ The information a student actually needs, current requirements, real deadlines, 
 
 Union puts that information in one place, in the student's language, and is explicit about how much it trusts each piece.
 
-- **Search in plain language.** «economia a Londra sotto i 20.000» or «psychology in Paris, taught in English» resolves to an actual filter, in Italian or English, and the app says back what it understood so a misreading is visible instead of silent.
+- **Ask in your own words.** Any request, typed the way you would say it out loud, becomes a real filter, and the app says back what it understood so a misreading is visible instead of silent. Understanding the sentence is the easy half. The half that matters is that behind it sits a database where "does this course require the GMAT" is a checked fact rather than a guess.
+- **Built to grow itself.** The catalogue is not meant to be filled by one person. Students can flag a missing university or course from inside the app, so it expands exactly where the people using it are looking, and stays current because the network that benefits from it is the one that maintains it. That is the path from thirty-five universities to thousands, and the reason the app can fit a student anywhere rather than one country. (In the demo the reports stay on the device; there is no server yet.)
 - **A university card that answers the real questions.** Requirements, deadlines, tuition, rankings for the specific course rather than the institution, campus life, and where each figure came from with the date it was checked.
 - **Students who already got in.** Profiles and conversations that show what an accepted application actually looked like.
 - **A globe, not a list.** Because choosing a country is a different decision from choosing a course, and it deserves its own screen.
@@ -28,10 +29,6 @@ Union puts that information in one place, in the student's language, and is expl
 Where a figure has not been verified at the source, the warning appears **above** the numbers, not below them. A caveat placed underneath arrives after the reader has already believed the number. Deadlines a university has not published yet are labelled indicative and start no countdown. Admission rates by applicant background are shown as demonstrative estimates, because that data does not exist publicly, and closing that gap is the actual point of the project.
 
 It makes the app look less complete than it could. It is also the only thing that, repeated for a few years, earns the trust that makes a student check here first.
-
-## Screenshots
-
-`DA COMPLETARE: 3–4 schermate, la ricerca, il globo, una scheda ateneo, la chat`
 
 ## Built with
 
